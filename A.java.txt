@@ -1,2 +1,5 @@
 "void"pooja hgjhsa/hydujsad/
 prajwal,pavan
+class a(){
+int i;
+}
