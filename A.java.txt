@@ -2,5 +2,9 @@
 prajwal,pavan
 
 null{
+
+
+name;
+place;
 }
 
